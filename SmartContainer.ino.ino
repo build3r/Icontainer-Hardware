@@ -15,6 +15,8 @@ char buff[400] = "0";
 char data='0';
 String postJson = "{\"deviceId\":\"5723ec3f529247160ad517a0\",\"data\":{\"containerId\" : 1,\"weight\":";
 //5723ec3f529247160ad517a0
+
+
 #define CONTAINER_ID 1
 int incomingByte = 0;   // for incoming serial data
 // the setup function runs once when you press reset or power the board
